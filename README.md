@@ -12,5 +12,5 @@ Another my stupid awesome list of useful stuff for my research. (I rarely do res
 
 ### Tools
 - https://github.com/thisiscam/math-with-slack
-  - Rendered math (MathJax) with Slack's desktop client (i.e. it will render latex equations after installation.)
+  - Rendered math (MathJax) with Slack's desktop client (i.e. it will render latex syntax after installation.)
   - For some cultivated people who talk with math equations in slack
