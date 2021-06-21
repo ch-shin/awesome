@@ -10,6 +10,10 @@ Another my stupid awesome list of useful stuff for my research. (I rarely do res
   - An extensive collection of pytorch implementations for image models
   - It includes quite latest models and it is still being updated.
 
+### Machine learning
+- https://github.com/probml/pyprobml
+  - Jupyter notebook examples for Probabilistic Machine Learning (https://probml.github.io/pml-book/)
+
 ### Tools
 - https://github.com/thisiscam/math-with-slack
   - Rendered math (MathJax) with Slack's desktop client (i.e. it will render latex syntax after installation.)
