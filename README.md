@@ -18,3 +18,14 @@ Another my stupid awesome list of useful stuff for my research. (I rarely do res
 - https://github.com/thisiscam/math-with-slack
   - Rendered math (MathJax) with Slack's desktop client (i.e. it will render latex syntax after installation.)
   - For some cultivated people who talk with math equations in slack
+
+### Youtube Channels
+- https://www.youtube.com/channel/UCUxGBfUhv_FqfArqedqOCSA
+  - Shannon channels
+  - Talks about information theory, learning, communication theory
+- https://www.youtube.com/channel/UCWdIX5vwqHpDc4kaRK3M3yQ
+  - TCS+
+  - Talks about theoretical computer science
+- https://www.youtube.com/c/SimonsInstitute/featured
+  - Simons Institute
+  - CS and Math (all the topics, I guess)
